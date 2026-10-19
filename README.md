@@ -148,4 +148,6 @@ resolution within a fixed file size.
 
 ## License
 
-This project is licensed under the MIT Licence.
+MIT License
+
+Copyright (c) 2026 Maksymilian Kwiatkowski
