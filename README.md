@@ -148,4 +148,4 @@ resolution within a fixed file size.
 
 ## License
 
-Add the license that matches how you plan to publish and reuse this project.
+This project is licensed under the MIT Licence.
